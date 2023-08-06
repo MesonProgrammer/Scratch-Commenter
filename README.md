@@ -1,5 +1,5 @@
 # Scratch-Commenter
-# Requires Internet connection
+## Requires Internet connection
 
 The script prompts you to comment on a project, user, or studio.
 The script sends a request to scratch.mit.edu to see if it is accessible.
